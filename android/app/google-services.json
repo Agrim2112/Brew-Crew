@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "66476035835",
+    "project_id": "brewcrew-e3db7",
+    "storage_bucket": "brewcrew-e3db7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66476035835:android:8ad2da04a1e33e606fea5e",
+        "android_client_info": {
+          "package_name": "com.agrim.brew_crew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKPAjUNeAII7TEg_B8wVE04aDwlCJSTvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
