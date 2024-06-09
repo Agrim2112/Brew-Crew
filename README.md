@@ -1,16 +1,30 @@
-# brew_crew
+# Brew Crew
 
-Coffee App
+Brew Crew is a mobile application built using Flutter and Firebase, allowing users to sign in, register, and manage their custom coffee preferences. Users can personalize their coffee by specifying the name, coffee strength, and sugar level. Additionally, users can view other people's coffee preferences to get inspiration or try something new.
+
+## Features
+
+- **User Authentication:** Register and sign in with an email and password.
+- **Custom Coffee Preferences:** Add and edit your own coffee preferences including the coffee name, strength, and sugar level.
+- **View Other Preferences:** Browse and view coffee preferences created by other users.
+
+## Tech Stack
+
+- **Flutter:** Frontend framework for building the mobile app.
+- **Firebase Authentication:** User authentication and management.
+- **Firebase Firestore:** Database to store and manage coffee preferences.
+- **Firebase Analytics:** Track user interactions and app usage.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- [Flutter](https://flutter.dev/docs/get-started/install) - Ensure Flutter is installed on your machine.
+- [Firebase Account](https://firebase.google.com/) - Set up a Firebase project.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/yourusername/brew-crew.git
+   cd brew-crew
