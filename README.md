@@ -28,3 +28,19 @@ Brew Crew is a mobile application built using Flutter and Firebase, allowing use
    ```bash
    git clone https://github.com/yourusername/brew-crew.git
    cd brew-crew
+   
+2. **Install dependencies:**
+    ```bash
+    flutter pub get
+    ```
+
+3. **Set up Firebase:**
+    - Go to the [Firebase Console](https://console.firebase.google.com/).
+    - Create a new project and add an Android/iOS app to the project.
+    - Download the `google-services.json` (for Android) or `GoogleService-Info.plist` (for iOS) file.
+    - Place the `google-services.json` file in the `android/app` directory and `GoogleService-Info.plist` in the `ios/Runner` directory.
+
+4. **Run the app:**
+    ```bash
+    flutter run
+    ```
